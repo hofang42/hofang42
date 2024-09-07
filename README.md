@@ -15,7 +15,7 @@ Hi 👋, I'm Thanh Hoang, I'm a student at FPT University Da Nang
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='[https://randommeme-five.vercel.app/](https://api.memegen.link/images/buzz/memes/memes_everywhere.webp)' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hofang42&icon=2&color=0)](https://visitcount.itsvg.in)
