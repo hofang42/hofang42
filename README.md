@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Thanh Hoang, I'm a student at FPT University Da Nang
+# Hi 👋, I'm Thanh Hoang, I'm a student at FPT University Da Nang
 
 
 ## 🌐 Socials:
